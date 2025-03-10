@@ -12,7 +12,7 @@ int main()
     float area1, area2;
     float pib1, pib2;
 
-    printf("Jogo Super Trunfo \n");
+    printf("Jogo Super Trunfo \n\n");
 
     // Solicitando os dados da primeira carta
     printf("Informe os dados da primeira carta \n");
